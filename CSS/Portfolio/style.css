@@ -1,0 +1,18 @@
+.center {
+    text-align: center;
+    color: rgb(84, 23, 35);
+}
+
+h3 {
+    color: rgb(64, 94, 96);
+}
+
+table, th, td {
+    background-color: powderblue;
+    border: 1px solid black;
+}
+
+p {
+    color: rgb(27, 101, 48);
+    background-color: azure;
+}
